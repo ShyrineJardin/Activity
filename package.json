@@ -1,1 +1,23 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "This will run a JSON code",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShyrineJardin/_Activity.git"
+  },
+  "keywords": [
+    "ActivityMain"
+  ],
+  "author": "ShyrineJardin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShyrineJardin/_Activity/issues"
+  },
+  "homepage": "https://github.com/ShyrineJardin/_Activity#readme"
+}
 
